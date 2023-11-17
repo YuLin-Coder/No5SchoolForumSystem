@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+
+#top_bg {
+	background-color: gray;
+	margin: auto;
+}
+
+#top_div {
+	background-color: blue;
+	margin: auto;
+	width: 960px;
+}
+
+#nav_div {
+	
+}
+
+li {
+	display: inline;
+}

@@ -1,0 +1,15 @@
+<c3p0-config> 
+	
+	<default-config>
+	
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/no5_campusbbs?characterEncoding=utf8</property>
+		<property name="user">root</property>
+		<property name="password">123456</property>
+		<property name="initialPoolSize">50</property>
+		<property name="maxPoolSize">60</property>
+
+	</default-config>
+</c3p0-config>
+
+
